@@ -28,8 +28,7 @@ Nguyễn Minh Thuận là sinh viên ngành Kỹ thuật Điện tử – Viễn
 | [Electronic-Practice-2](https://github.com/thuanmazda/Electronic-Practice-2) | 0    | C/C++         | Bài tập thực hành điện tử: vẽ sơ đồ mạch và bố trí PCB (OrCAD/Altium)                      | Mô tả công cụ thiết kế mạch, sơ đồ nguyên lý.     |
 | [WiFi-Simulator](https://github.com/thuanmazda/WiFi-Simulator)    | 0    | Cisco PT      | Mô phỏng mạng không dây 802.11a/b/g bằng Cisco Packet Tracer                              | Kết quả mô phỏng mạng Wi-Fi, đồ thị hiệu năng.    |
 | [Smart-Pillbox](https://github.com/thuanmazda/Smart-Pillbox)      | 0    | C/C++         | Hộp thuốc IoT tự động (ESP32, Wi-Fi) lập lịch phát thuốc tự động                          | Kết nối ESP32 với đám mây, quản lý lịch thông minh. |
-| [Air-Quality-Monitoring-System-Edge-AI-](https://github.com/phandienxauxa/Air-Quality-Monitoring-System-Edge-AI-) | 2    | Python        | Hệ thống giám sát chất lượng không khí trong nhà dùng AI (dự đoán PM2.5, Dashboard Web)   | Ứng dụng ML và FreeRTOS trên nền tảng nhúng.       |
-| [Mini-Hydroponic-System](https://github.com/phandienxauxa/Mini-Hydroponic-System)       | 2    | Python        | Hệ thống thủy canh thông minh thu nhỏ (cảm biến môi trường, tưới nước tự động)             | Điều khiển cảm biến môi trường, cảnh báo Telegram. |
+
 
 **Đề xuất cải thiện README cho mỗi dự án:** Ví dụ  
 - *BKonsole:* Cập nhật hình ảnh hoặc video demo game; nêu rõ các linh kiện chính và hướng dẫn build/flash.  
