@@ -1,4 +1,4 @@
-# Hồ sơ GitHub – Nguyễn Minh Thuận
+# GitHub Profile – Nguyễn Minh Thuận
 
 *Sinh viên năm 3 ĐH Bách Khoa TP.HCM (HCMUT) – Kỹ sư Điện tử Viễn thông & IoT*  
 
